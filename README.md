@@ -7,6 +7,6 @@ mcc
 4. Run.
 
 Account Balance and Payment list information is found at:
-http://localhost:<port>/api/Accounts/1
+http://localhost:[port]/api/Accounts/1
   
 
